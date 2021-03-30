@@ -1,2 +1,2 @@
 # MB123
-Einfach ein Repository
+Einfach ein Repository zum spielen
