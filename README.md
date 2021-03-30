@@ -1,2 +1,3 @@
 # MB123
-Einfach ein Repository zum spielen
+Einfach ein Repository.
+Nu wirds ernst
